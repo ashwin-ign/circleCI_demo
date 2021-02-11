@@ -69,4 +69,6 @@ netron==4.7.3
 networkx==2.5
 notebook==6.1.5
 numba==0.48.0
-
+flake8
+pytest
+pytest-cov
